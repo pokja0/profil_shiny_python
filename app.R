@@ -19,6 +19,7 @@ library(quarto)
 library(ggplot2)
 library(ggrepel)
 library(readr)
+library(sf)
 
 link_shiny <- tags$a(
   shiny::icon("instagram"), "Instagram BKKBN Sulbar",
